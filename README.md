@@ -1,4 +1,4 @@
-# 🌀 CT Simulation & 3D Reconstruction Dashboard
+# 🌀 CT Simulation & 3D Reconstruction Using SART 
 
 Smart insights and interactive demos for 3D computed tomography (CT), built for exploration and learning.
 - Simulate custom phantoms (disk, square, rectangle, triangle)
